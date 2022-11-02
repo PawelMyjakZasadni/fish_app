@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fish_app</string>
+    <string name="title_home">Start</string>
+    <string name="title_dashboard">Gry</string>
+    <string name="title_notifications">Statystyki</string>
+    <string name="start_kat1">Dni tygodnia</string>
+    <string name="start_kat2">Miesiące</string>
+    <string name="start_kat3">Zwierzęta</string>
+    <string name="gry_gra1">Gra 1</string>
+    <string name="gry_gra2">Gra 2</string>
+</resources>

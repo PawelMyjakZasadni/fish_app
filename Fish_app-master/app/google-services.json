@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463482506213",
+    "project_id": "fishap-bf53d",
+    "storage_bucket": "fishap-bf53d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463482506213:android:ac74892a28b9edee9e3d0c",
+        "android_client_info": {
+          "package_name": "com.example.fish_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463482506213-6eh8oi11bcfdkl1u1ac3inqv0bvfjhf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAczF97wiXiulwAMrfYNM9nPTLQvfBkbBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463482506213-6eh8oi11bcfdkl1u1ac3inqv0bvfjhf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
